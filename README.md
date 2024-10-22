@@ -38,3 +38,8 @@ Key Insights:
 7. Gender Distribution Across Cities: Found insights into the number of male and female callers within different cities, which helps understand the demographic breakdown of customer interactions.
 
 8. Calls by Representative: Evaluated how many calls each representative handled, identifying top performers across the team.
+
+Dashboard:
+-----------
+![image](https://github.com/user-attachments/assets/451e16c1-ab0e-4505-a123-236ad8a5ea3f)
+
