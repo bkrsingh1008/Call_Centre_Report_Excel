@@ -33,7 +33,7 @@ Key Insights:
 
 5. 5-Star Ratings: I identified the number of calls that received 5-star rating, giving insights into the highest level of customer satisfaction.
 
-6. Monthly Call Trends: Analyzed the monthly trends in call volume to detect seasonal patterns or fluctuations, helping to forecast resource needs.
+6. Monthly Call Trends: Analyzed the monthly trends in call volume to detect seasonal patterns or fluctuations, helping to forecast resource needs. Call volumes peaked in April and October, indicating periods of high activity.
 
 7. Gender Distribution Across Cities: Found insights into the number of male and female callers within different cities, which helps understand the demographic breakdown of customer interactions.
 
