@@ -18,8 +18,8 @@ Key Learnings:
 1. Combined datasets, including calculated fields like fiscal year (FY), call day of the week, and call duration buckets, to build an interactive data model.
 2. Created fully interactive dashboards that allow users to filter by fiscal year, and customer demographics, and provide insights dynamic and easy to navigate.
 3. Used bar charts, column charts, line charts and slicers to display key trends like monthly call performance by representative, average customer satisfaction by demographic.
-4. Used Conditional formatting (data baars) to highlighted areas of concern to make the data more actionable.
-5. Created custom calculations to derive insights like average satisfaction ratings and day of week and satisfaction rating.
+4. Used Conditional formatting (data bars) to highlighted areas of concern to make the data more actionable.
+5. Created custom calculations to derive insights like average satisfaction ratings and day of week.
 
 Key Insights:
 -------------
@@ -33,7 +33,7 @@ Key Insights:
 
 5. 5-Star Ratings: I identified the number of calls that received 5-star rating, giving insights into the highest level of customer satisfaction.
 
-6. Monthly Call Trends: Analyzed the monthly trends in call volume to detect seasonal patterns or fluctuations, helping to forecast resource needs. Call volumes peaked in April and October, indicating periods of high activity.
+6. Monthly Call Trends: Analyzed the monthly trends in call volume to detect seasonal patterns or fluctuations, helping to forecast resource needs. Call volumes peaked in April and October indicating periods of high activity.
 
 7. Gender Distribution Across Cities: Found insights into the number of male and female callers within different cities, which helps understand the demographic breakdown of customer interactions.
 
