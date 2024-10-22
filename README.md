@@ -23,3 +23,18 @@ Key Learnings:
 
 Key Insights:
 -------------
+1. Total Calls: The analysis includes the total number of calls received by the call center, providing a clear picture of overall volume and workload.
+
+2. Total Purchase Amount: By analyzing the data, I calculated the total purchase amount made by customers through call interactions.
+
+3. Total Call Duration: The total time spent on calls was analyzed, helping to evaluate the efficiency and resource allocation within the call center.
+
+4. Average Satisfaction Rating: The average customer satisfaction rating across all calls was calculated, providing a key indicator of overall service quality.
+
+5. 5-Star Ratings: I identified the number of calls that received 5-star rating, giving insights into the highest level of customer satisfaction.
+
+6. Monthly Call Trends: Analyzed the monthly trends in call volume to detect seasonal patterns or fluctuations, helping to forecast resource needs.
+
+7. Gender Distribution Across Cities: Found insights into the number of male and female callers within different cities, which helps understand the demographic breakdown of customer interactions.
+
+8. Calls by Representative: Evaluated how many calls each representative handled, identifying top performers across the team.
