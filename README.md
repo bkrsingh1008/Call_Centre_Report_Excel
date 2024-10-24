@@ -41,5 +41,6 @@ Key Insights:
 
 Dashboard:
 -----------
-![image](https://github.com/user-attachments/assets/451e16c1-ab0e-4505-a123-236ad8a5ea3f)
+![Dashboard 1](https://github.com/user-attachments/assets/a7e035c3-04b7-49bd-b96f-ae5e8696412f)
+
 
